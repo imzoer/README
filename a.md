@@ -3,6 +3,7 @@
 ### Version: 0.5.4
 ### Fix:
 * patch 的目录 dexopt/dex2oat 之后不允许有任何变动，否则系统会重新 dexopt/dex2oat
+
 ### Fix:
 * 修改 module 名称
 * 整理 sp 存储的变量
